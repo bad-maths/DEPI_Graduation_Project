@@ -5,7 +5,7 @@ Each minute represents a valuable unit that can be spent or saved. The app aims 
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 - Anas Serag Abdelmajed Elmakawy  
 - Hams Mohamed Ramadan Mahmoud  
@@ -16,13 +16,13 @@ Each minute represents a valuable unit that can be spent or saved. The app aims 
 
 ---
 
-## 🧭 Team Leader
+## Team Leader
 
 **Anas Serag Abdelmajed Elmakawy**
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design an intuitive and visually appealing mobile interface.  
 - Provide a seamless and efficient user experience for time tracking.  
